@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 const slugify = require('slugify');
-const validator = require('validator');
+//const errorController = require('../controllers/errorController');
+//const validator = require('validator');
 
 const { Schema } = mongoose;
 
